@@ -1,4 +1,7 @@
 
+<div style="width: 100%; height: 100vh; overflow: hidden;">
+    <img src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg" alt="" style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Lưu Văn Hoàng</h1>
 <h3 align="center">A passionate .Net developer from Vietnamese</h3>
