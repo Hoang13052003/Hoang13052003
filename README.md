@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoang13052003&label=Profile%20views&color=0e75b6&style=flat" alt="hoang13052003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right"  width="300" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="" />
+
 - 🌱 I’m currently learning **Ho Chi Minh City University of Industry and Trade (HUIT)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hoang13052003](https://github.com/Hoang13052003)
